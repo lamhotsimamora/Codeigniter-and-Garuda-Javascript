@@ -12,6 +12,6 @@ Simple CRUD with Codeigniter and Garuda Javascript 2
 
 ### Screenshoot
 
-<img src="screenshoot/1.png">
-<img src="screenshoot/2.png">
-<img src="screenshoot/3.png">
+<img src="screenshoot/1.PNG">
+<img src="screenshoot/2.PNG">
+<img src="screenshoot/3.PNG">
