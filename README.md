@@ -4,6 +4,8 @@ Version Codeigniter 3.1.7
 
 Simple CRUD with Codeigniter and Garuda Javascript 2
 
+Demo https://www.garudajavascriptcodeigniter.lamhotsimamora.com/
+
 ### Getting Started
 1. Clone repository 'git clone https://github.com/lamhotsimamora/Codeigniter-and-Garuda-Javascript.git'
 2. Create database name 'db-ci-user_profile'
